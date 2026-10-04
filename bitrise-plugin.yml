@@ -1,0 +1,7 @@
+name: herdr
+description: Keep Herdr machines and SSH config in step with your Bitrise RDE sessions.
+trigger: ""
+requirements:
+- tool: bitrise
+  min_version: 3.1.0
+  max_version: ""
